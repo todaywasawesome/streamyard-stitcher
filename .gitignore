@@ -1,0 +1,16 @@
+# Build artifacts
+target/
+
+# Sample media & work products — never commit recordings or encodes
+input/
+output/
+scratch/
+
+# Debug frames / intermediate decodes
+t.png
+t1.png
+t3.png
+*.ppm
+
+# OS cruft
+.DS_Store

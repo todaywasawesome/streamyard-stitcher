@@ -100,3 +100,7 @@ Tests cover the pure core: window building (gap-fill, clipping), the ffmpeg comm
 CI (`.github/workflows/ci.yml`) runs fmt + clippy (deny warnings) + tests on Ubuntu and macOS. Pushing a `v*` tag builds per-platform binaries and publishes a GitHub Release (`.github/workflows/release.yml`).
 
 See [DESIGN.md](DESIGN.md) for the original design doc and phase plan.
+
+## License
+
+MIT — see [LICENSE](LICENSE).

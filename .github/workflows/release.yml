@@ -39,4 +39,3 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: ./streamyard-stitcher-*-${{ matrix.target }}
-          generate_release_notes: true

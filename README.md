@@ -14,6 +14,8 @@ StreamYard's cloud recording is the best *edit* (layouts, lower-thirds, branding
  │ …                      │      │  regions + hi-res audio│
  └────────────────────────┘      └────────────────────────┘
 ```
+<img width="1837" height="654" alt="HTF3I49bQAAzNNT" src="https://github.com/user-attachments/assets/0b8ce78f-f063-4e6e-9ef9-027b162df0ea" />
+
 
 ## Requirements
 
